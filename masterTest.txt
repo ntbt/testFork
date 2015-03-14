@@ -1,2 +1,4 @@
 add master test txt
 teste
+
+git merge upstream/master
